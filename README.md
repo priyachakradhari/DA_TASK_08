@@ -40,14 +40,6 @@ The dataset contains fields like:
 
 ---
 
-### 📸 Dashboard Screenshot
-
->  Included: `Superstore_Sales_Dashboard_Screenshot.png`
-
-<img src="Superstore_Sales_Dashboard_Screenshot.png" alt="Dashboard" width="700">
-
----
-
 ###  Key Insights (Also saved as `Dashboard_Insights.txt`)
 
 1. **Central region** generated the highest overall sales.
