@@ -63,8 +63,6 @@ The dataset contains fields like:
 📂 Task_08_Sales_Dashboard/
 ├── Superstore_Sales_Dashboard.pbix
 ├── Superstore_Sales_Dashboard_Screenshot.png
-├── Superstore_Sales_Dashboard_Report.pdf
-├── Dashboard_Insights.txt
 ├── Superstore_Sales_200_Rows.csv
 ```
 
